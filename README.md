@@ -2,8 +2,6 @@
 
 ![PHP](https://img.shields.io/badge/PHP-8.1+-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![VanillaJS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 LokerOne adalah platform pencarian kerja modern dan terpercaya di Indonesia yang menghubungkan talenta terbaik dengan perusahaan-perusahaan terkemuka. Dibangun dengan fokus pada kecepatan, kemudahan penggunaan, dan antarmuka pengguna (UI) yang dinamis, bersih, serta profesional.
 
