@@ -10,10 +10,10 @@ LokerOne adalah platform pencarian kerja modern dan terpercaya di Indonesia yang
 ---
 
 ## 📸 Cuplikan Layar (Screenshots)
-*(Opsional: Tambahkan screenshot aplikasimu di sini dengan mengganti URL gambarnya)*
+*(Di bawah ini adalah Screenshots beranda atau tampilan awal dari LOKERONE dan yang kedua adalah dashboard dari sisi role perusahaan untuk melihat dan menggelola lamaran dari pelamar di PT tersebut)*
 | Halaman Beranda | Dashboard Perusahaan |
 | :---: | :---: |
-| ![Beranda](https://via.placeholder.com/400x250?text=Screenshot+Beranda) | ![Dashboard](https://via.placeholder.com/400x250?text=Screenshot+Dashboard) |
+| | ![Beranda](assets/beranda.png) | ![Dashboard](assets/dashboard.png) | |
 
 ---
 
